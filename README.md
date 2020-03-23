@@ -1,4 +1,7 @@
 # MediaStreamRecording Simple Project
+
+## <a href="https://aeykeyzs.github.io/examples/MediaStream%20Recording/">Live Demo</a>
+
 This is a sample project to do following functionalities:
 1. Start Camera
 2. Recording Stream
