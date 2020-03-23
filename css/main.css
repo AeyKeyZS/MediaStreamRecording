@@ -1,0 +1,25 @@
+body {
+    margin     : 0;
+    text-align : center;
+    color      : #292929;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+}
+
+button {
+    padding         : 5px 10px;
+    border          : 0px;
+    border-radius   : 4px;
+    background-color: #292929;
+    color           : #fff;
+    cursor          : pointer;
+}
+
+video {
+    vertical-align: top;
+    --width       : 30vw;
+    width         : var(--width);
+    height        : calc(var(--width) * 0.5625);
+    margin        : 20px;
+    border        : 1px solid #292929;
+    background    : #999;
+}
