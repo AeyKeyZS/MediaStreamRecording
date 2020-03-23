@@ -1,6 +1,6 @@
 export default {
     'Recording of video is working.': (browser) => {
-      const path = '/src/content/getusermedia/record/index.html';
+      const path = 'index.html';
       const url = 'file://' + process.cwd() + path;
   
       browser.url(url).waitForElementVisible('button#record', 1000);
