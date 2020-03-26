@@ -1,6 +1,6 @@
 # MediaStreamRecording Simple Project
 
-## <a target='_blank' href="https://aeykeyzs.github.io/examples/MediaStream%20Recording/">Live Demo</a>
+## <a target='_blank' href="https://aeykeyzs.github.io/MediaStreamRecording/">Live Demo</a>
 
 This is a sample project to do following functionalities:
 
